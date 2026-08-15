@@ -6,13 +6,17 @@ We made it as a support for families that can't stay together all the time, faci
 
 ### Why the app is called My Little Frank?
 Both the developers of this project are very big fan of horror, Halloween and terror. And since we're more motivated when we're having fun, we decided to go with these themes for our project.
+This app was made for users to take care of a small "Frankenstein's monster", one which you can customize by using needle, thread and a lot of monstrous body parts!
 
 ### Technical stuff
 This is an [Expo](https://expo.dev) project. We used the [Helia](https://github.com/Rodrigo322/helia-youtube) project, made by [Rodrigo322](https://github.com/Rodrigo322) as a base and initial reference.
 #### Front-end
-- Expo (React Native) + TypeScript
-- React Native Stylesheet
-- Lottie Animations
+- Expo
+- React Native
+- React Navigation
+- Typescript
+- Jest
+- React Native Reanimated
 #### Back-end
 - Supabase
 - PostgreSQL
