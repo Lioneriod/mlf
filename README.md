@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# My Little Frank
+## About MLF (My Little Frank)
+### Why we made this app
+This is a "take care of a virtual pet" app, mixed with some bonding between parents and kids. The main idea is that the users will share a pet, and through the interactions with this pet, know more about each other and interact with each other.
+We made it as a support for families that can't stay together all the time, facilitating for quick interactions while working or away. It isn't something to replace how they interact with each other, and more of a supporting tool for their relationship.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Why the app is called My Little Frank?
+Both the developers of this project are very big fan of horror, Halloween and terror. And since we're more motivated when we're having fun, we decided to go with these themes for our project.
 
-## Get started
-
+### Technical stuff
+This is an [Expo](https://expo.dev) project. We used the [Helia](https://github.com/Rodrigo322/helia-youtube) project, made by [Rodrigo322](https://github.com/Rodrigo322) as a base and initial reference.
+#### Front-end
+- Expo (React Native) + TypeScript
+- React Native Stylesheet
+- Lottie Animations
+#### Back-end
+- Supabase
+- PostgreSQL
+### Running our project locally
 1. Install dependencies
 
    ```bash
    npm install
    ```
-
 2. Start the app
 
    ```bash
     npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
