@@ -1,33 +1,32 @@
 # My Little Frank
-## About MLF (My Little Frank)
-### Why we made this app
-This is a "take care of a virtual pet" app, mixed with some bonding between parents and kids. The main idea is that the users will share a pet, and through the interactions with this pet, know more about each other and interact with each other.
-We made it as a support for families that can't stay together all the time, facilitating for quick interactions while working or away. It isn't something to replace how they interact with each other, and more of a supporting tool for their relationship.
+## Sobre o MLF (My Little Frank)
+### Por que criamos este aplicativo
+Este é um aplicativo de "cuidados com um animal de estimação virtual", misturado com o fortalecimento do vínculo entre pais e filhos. A ideia principal é que os usuários compartilhem um animal de estimação e, por meio das interações com ele, conheçam mais um ao outro e interajam entre si.
+Criamos esse app como suporte para famílias que não podem estar juntas o tempo todo, facilitando interações rápidas enquanto trabalham ou estão ausentes. Não é algo que substitua a forma como se relacionam, mas sim uma ferramenta de apoio à relação deles.
 
-### Why the app is called My Little Frank?
-Both the developers of this project are very big fan of horror, Halloween and terror. And since we're more motivated when we're having fun, we decided to go with these themes for our project.
-This app was made for users to take care of a small "Frankenstein's monster", one which you can customize by using needle, thread and a lot of monstrous body parts!
+### Por que o aplicativo se chama My Little Frank?
+Ambos os desenvolvedores deste projeto são grandes fãs de horror, Halloween e terror. E, como somos mais motivados quando estamos nos divertindo, decidimos usar esses temas em nosso projeto.
+Este aplicativo foi criado para que os usuários cuidem de um pequeno "monstro de Frankenstein", que pode ser personalizado usando agulha, linha e várias partes monstruosas do corpo!
 
-### Technical stuff
-This is an [Expo](https://expo.dev) project. We used the [Helia](https://github.com/Rodrigo322/helia-youtube) project, made by [Rodrigo322](https://github.com/Rodrigo322) as a base and initial reference.
+### Informações técnicas
+Este é um projeto [Expo](https://expo.dev). Utilizamos o projeto [Helia](https://github.com/Rodrigo322/helia-youtube), desenvolvido por [Rodrigo322](https://github.com/Rodrigo322), como base e referência inicial.
 #### Front-end
 - Expo
 - React Native
 - React Navigation
-- Typescript
+- TypeScript
 - Jest
 - React Native Reanimated
 #### Back-end
 - Supabase
 - PostgreSQL
-### Running our project locally
-1. Install dependencies
+### Como rodar nosso projeto localmente
+1. Instale as dependências
 
-   ```bash
+   bash
    npm install
-   ```
-2. Start the app
+   
+2. Inicie o aplicativo
 
-   ```bash
-    npx expo start
-   ```
+   bash
+   npx expo start
